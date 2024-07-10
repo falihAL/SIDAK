@@ -19,10 +19,10 @@
 
 <body>
 	<center>
-
-		<h2>PEMERINTAH KABUPATEN PERCONTOHAN</h2>
-		<h3>KECAMATAN PERCONTOHAN
-			<br>DESA PERCONTOHAN</h3>
+		<img src="../dist/img/logokabtang2.png" height="100" weight="50">
+		<h2>PEMERINTAH KABUPATEN TANGERANG</h2>
+		<h3>KECAMATAN BALARAJA
+			<br>DESA SAGA</h3>
 		<p>________________________________________________________________________</p>
 
 		<?php
@@ -44,7 +44,7 @@
 			<?php echo $tanggal; ?>
 		</h4>
 	</center>
-	<p>Yang bertandatangan dibawah ini Kepala Desa ............., Kecamatan ............., Kabupaten ............, dengan ini menerangkan
+	<p>Yang bertandatangan dibawah ini Kepala Desa Saga, Kecamatan Balaraja, Kabupaten Tangerang, dengan ini menerangkan
 		bahawa :</P>
 	<table>
 		<tbody>
@@ -73,7 +73,7 @@
 			<?php } ?>
 		</tbody>
 	</table>
-	<p>Telah benar-benar Pindah dari Desa ..........., Kecamatan ............, Kabupuaten ....................</P>
+	<p>Telah benar-benar Pindah dari Desa Saga, Kecamatan Balaraja, Kabupuaten Tangerang</P>
 	<p>Demikian Surat ini dibuat, agar dapat digunakan sebagai mana mestinya.</P>
 	<br>
 	<br>
@@ -81,9 +81,9 @@
 	<br>
 	<br>
 	<p align="right">
-		Maju Jaya,
+		Tangerang,
 		<?php echo $tgl; ?>
-		<br> KEPALA DESA ...............
+		<br> KEPALA DESA SAGA
 		<br>
 		<br>
 		<br>
