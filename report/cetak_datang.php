@@ -89,7 +89,7 @@
 	<p align="right">
 		TANGERANG
 		<?php echo $tgl; ?>
-		<br> KEPALA DESA ...............
+		<br> KEPALA DESA SAGA
 		<br>
 		<br>
 		<br>
