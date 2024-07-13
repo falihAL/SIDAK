@@ -45,8 +45,8 @@
 			<?php echo $tanggal; ?>
 		</h4>
 	</center>
-	<p>Yang bertandatangan dibawah ini Kepala Desa ............., Kecamatan .........., Kabupaten .............., dengan ini menerangkan
-		bahawa :</P>
+	<p>Yang bertandatangan dibawah ini Kepala Desa Saga, Kecamatan Balaraja, Kabupaten Tangerang, dengan ini menerangkan
+	bahawa :</P>
 	<table>
 		<tbody>
 			<tr>
