@@ -19,7 +19,7 @@
 
 <body>
 	<center>
-
+	<img src="../dist/img/logokabtang2.png" height="100" weight="50">
 		<h2>PEMERINTAH KABUPATEN PERCONTOHAN</h2>
 		<h3>KECAMATAN PERCONTOHAN
 			<br>DESA PERCONTOHAN</h3>
