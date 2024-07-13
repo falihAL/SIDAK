@@ -189,7 +189,7 @@
 			<div class="icon">
 				<i class="ion ion-android-upload"></i>
 			</div>
-			<a href="index.php?page=log-izin" class="small-box-footer">Selengkapnya
+			<a href="index.php?page=data-pindah" class="small-box-footer">Selengkapnya
 				<i class="fas fa-arrow-circle-right"></i>
 			</a>
 		</div>
