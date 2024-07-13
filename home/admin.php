@@ -151,7 +151,7 @@
 			<div class="icon">
 				<i class="ion ion-android-sad"></i>
 			</div>
-			<a href="index.php?page=data-kartu" class="small-box-footer">Selengkapnya
+			<a href="index.php?page=data-mendu" class="small-box-footer">Selengkapnya
 				<i class="fas fa-arrow-circle-right"></i>
 			</a>
 		</div>
