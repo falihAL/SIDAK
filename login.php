@@ -139,7 +139,7 @@ if (isset($_POST['btnLogin'])) {
 			})</script>";
 	} else {
 		echo "<script>
-			Swal.fire({title: 'Login Gagal',text: '',icon: 'error',confirmButtonText: 'OK'
+			Swal.fire({title: 'Login Gagal, Anda Siapa?',text: '',icon: 'error',confirmButtonText: 'OK'
 			}).then((result) => {if (result.value)
 				{window.location = 'login.php';}
 			})</script>";
