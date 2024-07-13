@@ -640,7 +640,7 @@
 				</a>
 				All rights reserved.
 			</div>
-			<b>SI PANDU VERSI 2020</b>
+			<b>WARGA BALARAJA</b>
 		</footer>
 
 		<!-- Control Sidebar -->

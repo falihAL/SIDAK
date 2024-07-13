@@ -19,10 +19,10 @@
 
 <body>
 	<center>
-
-		<h2>PEMERINTAH KABUPATEN PERCONTOHAN</h2>
-		<h3>KECAMATAN PERCONTOHAN
-			<br>DESA PERCONTOHAN</h3>
+	<img src="../dist/img/logokabtang2.png" height="100" weight="50">
+		<h2>PEMERINTAH KABUPATEN TANGERANG</h2>
+		<h3>KECAMATAN BALARAJA
+			<br>DESA SAGA</h3>
 		<p>________________________________________________________________________</p>
 
 		<?php
@@ -42,8 +42,8 @@
 			<?php echo $tanggal; ?>
 		</h4>
 	</center>
-	<p>Yang bertandatangan dibawah ini Kepala Desa .................., Kecamatan ..........., Kabupaten ..............., dengan ini menerangkan
-		bahawa :</P>
+	<p>Yang bertandatangan dibawah ini Kepala Desa Saga, Kecamatan Balaraja, Kabupaten Tangerang, dengan ini menerangkan
+	bahwa :</P>
 	<table>
 		<tbody>
 			<tr>
