@@ -79,7 +79,7 @@
 			<?php } ?>
 		</tbody>
 	</table>
-	<p>Benar-benar Telah datang dan berencana untuk tinggal di Desa Maju Jaya, Kecamatan Maju Jaya, Kabupuaten Maju Jaya.</P>
+	<p>Benar-benar Telah datang dan berencana untuk tinggal di Desa Saga, Kecamatan Balaraja, Kabupuaten Tangerang.</P>
 	<p>Demikian Surat ini dibuat, agar dapat digunakan sebagaimana mestinya.</P>
 	<br>
 	<br>
