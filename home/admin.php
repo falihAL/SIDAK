@@ -170,7 +170,7 @@
 			<div class="icon">
 				<i class="ion ion-android-download"></i>
 			</div>
-			<a href="index.php?page=data-izin" class="small-box-footer">Selengkapnya
+			<a href="index.php?page=data-datang" class="small-box-footer">Selengkapnya
 				<i class="fas fa-arrow-circle-right"></i>
 			</a>
 		</div>
