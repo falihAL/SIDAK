@@ -34,6 +34,7 @@
 						<option>- Pilih -</option>
 						<option>Administrator</option>
 						<option>Kaur Pemerintah</option>
+						<option>Warga</option>
 					</select>
 				</div>
 			</div>
