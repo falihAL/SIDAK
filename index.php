@@ -445,7 +445,7 @@
 								</li>
 							</ul>
 						</li>
-
+					
 						<li class="nav-header">Setting</li>
 
 						<?php
@@ -608,6 +608,15 @@
 					include "surat/suket_pindah.php";
 					break;
 				
+				//laki-laki
+				case 'laki-laki':
+					include "admin/pend/laki-laki.php";
+					break;	
+
+				//perempuan
+				case 'prem':
+					include "admin/pengguna/prem.php";
+					break;
 
           
               //default
