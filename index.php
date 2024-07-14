@@ -445,7 +445,20 @@
 								</li>
 							</ul>
 						</li>
-					
+							
+						<?php
+          				} elseif($data_level=="Warga"){
+          				?>
+
+						<li class="nav-item">
+							<a href="index.php" class="nav-link">
+								<i class="nav-icon fas fa-tachometer-alt"></i>
+								<p>
+									Dashboard
+								</p>
+							</a>
+						</li>
+
 						<li class="nav-header">Setting</li>
 
 						<?php
@@ -632,6 +645,9 @@
           elseif($data_level=="Kaur Pemerintah"){
               include "home/kaur.php";
               }
+			  elseif($data_level=="Warga"){
+				include "home/warga.php";
+				}
           }
     ?>
 
