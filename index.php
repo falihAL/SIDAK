@@ -365,7 +365,7 @@
 							<ul class="nav nav-treeview">
 
 								<li class="nav-item">
-									<a href="#" class="nav-link">
+									<a href="?page=suket-domisili" class="nav-link">
 										<i class="nav-icon far fa-circle text-warning"></i>
 										<p>Su-Ket Domisili</p>
 									</a>
