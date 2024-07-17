@@ -81,7 +81,7 @@
 	<br>
 	<br>
 	<p align="right">
-		Maju Jaya,
+		TANGERANG
 		<?php echo $tgl; ?>
 		<br> KEPALA DESA SAGA
 		<br>
