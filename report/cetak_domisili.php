@@ -21,7 +21,7 @@
 	<center>
 		<img src="../dist/img/logokabtang2.png" height="100" weight="50">
 		<h2>PEMERINTAH KABUPATEN TANGERANG</h2>
-		<h3>KECAMATAN PERCONTOHAN
+		<h3>KECAMATAN BALARAJA
 			<br>DESA PERCONTOHAN</h3>
 		<p>________________________________________________________________________</p>
 
