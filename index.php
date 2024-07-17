@@ -661,7 +661,7 @@
 			<div class="float-right d-none d-sm-block">
 				Copyright &copy;
 				<a target="_blank" href="https://www.youtube.com/watch?v=kDkkKuu5C34&t=243s">
-					<strong> elseif software house</strong>
+					<strong> CANDIL KUYA</strong>
 				</a>
 				All rights reserved.
 			</div>
