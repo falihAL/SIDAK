@@ -70,7 +70,7 @@
 			<?php } ?>
 		</tbody>
 	</table>
-	<p>Telah benar-benar Lahir di Desa ..........., Kecamatan ..........., Kabupuaten ................</P>
+	<p>Benar-benar Telah datang dan berencana untuk tinggal di Desa Saga, Kecamatan Balaraja, Kabupuaten Tangerang.</P>
 	<p>Demikian Surat ini dibuat, agar dapat digunakan sebagaimana mestinya.</P>
 	<br>
 	<br>
