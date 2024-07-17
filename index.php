@@ -365,31 +365,31 @@
 							<ul class="nav nav-treeview">
 
 								<li class="nav-item">
-									<a href="#" class="nav-link">
+									<a href="?page=suket-domisili" class="nav-link">
 										<i class="nav-icon far fa-circle text-warning"></i>
 										<p>Su-Ket Domisili</p>
 									</a>
 								</li>
 								<li class="nav-item">
-									<a href="#" class="nav-link">
+									<a href="?page=suket-lahir" class="nav-link">
 										<i class="nav-icon far fa-circle text-warning"></i>
 										<p>Su-Ket Kelahiran</p>
 									</a>
 								</li>
 								<li class="nav-item">
-									<a href="#" class="nav-link">
+									<a href="?page=suket-mati" class="nav-link">
 										<i class="nav-icon far fa-circle text-warning"></i>
 										<p>Su-Ket Kematian</p>
 									</a>
 								</li>
 								<li class="nav-item">
-									<a href="#" class="nav-link">
+									<a href="?page=suket-datang" class="nav-link">
 										<i class="nav-icon far fa-circle text-warning"></i>
 										<p>Su-Ket Pendatang</p>
 									</a>
 								</li>
 								<li class="nav-item">
-									<a href="#" class="nav-link">
+									<a href="?page=suket-pindah" class="nav-link">
 										<i class="nav-icon far fa-circle text-warning"></i>
 										<p>Su-Ket Pindah</p>
 									</a>
