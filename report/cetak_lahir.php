@@ -78,9 +78,9 @@
 	<br>
 	<br>
 	<p align="right">
-		Maju Jaya,
+		Tangerang
 		<?php echo $tgl; ?>
-		<br> KEPALA DESA .................
+		<br>  KEPALA DESA SAGA
 		<br>
 		<br>
 		<br>
