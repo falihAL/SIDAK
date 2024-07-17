@@ -383,7 +383,7 @@
 									</a>
 								</li>
 								<li class="nav-item">
-									<a href="#" class="nav-link">
+									<a href="?page=suket-datang" class="nav-link">
 										<i class="nav-icon far fa-circle text-warning"></i>
 										<p>Su-Ket Pendatang</p>
 									</a>
