@@ -377,7 +377,7 @@
 									</a>
 								</li>
 								<li class="nav-item">
-									<a href="#" class="nav-link">
+									<a href="?page=suket-mati" class="nav-link">
 										<i class="nav-icon far fa-circle text-warning"></i>
 										<p>Su-Ket Kematian</p>
 									</a>
