@@ -55,6 +55,9 @@
 
                 if ($data_cek['level'] == "Kaur Pemerintah") echo "<option value='Kaur Pemerintah' selected>Kaur Pemerintah</option>";
                 else echo "<option value='Kaur Pemerintah'>Kaur Pemerintah</option>";
+
+                if ($data_cek['level'] == "Warga") echo "<option value='Warga' selected>Warga</option>";
+                else echo "<option value='Warga'>Warga</option>";
             ?>
 					</select>
 				</div>
