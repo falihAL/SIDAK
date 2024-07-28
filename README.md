@@ -8,3 +8,8 @@ Step Pemasangan Apk
 1. Clone repositories ini
 2. buatlah database "data_penduduk"
 3. jalankan di localhost
+
+
+Login system
+user : admin
+pass : admin
